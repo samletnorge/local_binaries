@@ -1,5 +1,5 @@
 
-# Android Debug Bridge (ADB) local package.
+# local binaries that that are collected as a local package.
 
 ## Binaries
 - `adb`: Android Debug Bridge binary for local use.
