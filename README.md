@@ -5,9 +5,18 @@
 - `adb`: Android Debug Bridge binary for local use.
 - `scrcpy`: Screen mirroring and control tool for Android devices. and keyboard/mouse input.
 
+## Installation
+
+```bash
+uv sync
+
+source .venv/bin/activate
+
+uv run example.py
+```
 
 ## Prerequisites
-- Python installed on your system
+- uv
 - Android device with USB debugging enabled
 
 ## Configuration
