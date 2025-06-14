@@ -1,0 +1,13 @@
+.vscode/
+.dist/
+
+.dist
+__pycache__
+.venv/
+venv/
+*.egg-info
+*.ipynb_checkpoints/
+.env
+dist/
+.DS_Store
+__marimo__/

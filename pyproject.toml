@@ -1,0 +1,15 @@
+[project]
+name = "local-binaries"
+version = "0.1.0"
+description = "A Python package for managing local binaries, currently there is scrcpy and and adb platform tools"
+readme = "README.md"
+authors = [
+    { name = "valiantlynx", email = "valiantlynxz@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
